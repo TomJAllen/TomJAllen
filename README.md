@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">An adventurous full-stack developer, keen to learn more!</h3>
+<h3 align="center">A Product Manager with a love for technology and tinkering!</h3>
 
-- 🔭 At the moment I am working on developing my skills, building a portfolio website and playing around with the Unity game engine to make a few games.  
-- 💬 Ask me about data protection, the bootcamp experience or anything to do with rowing 🚣!
+- 🔭 At the moment I am working on developing my web development skills and playing around with the Unity game engine to make a few games.  
+- 💬 Talk to me about your cool new digital product, game development or anything to do with rowing 🚣!
 - 📫 How to reach me **thomasjamesallen91@gmail.com**
 
 
