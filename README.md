@@ -2,7 +2,7 @@
 
 **Order from chaos, done beautifully.**
 
-I turn domain complexity into coherent, buildable models — then help teams build on them.
+Tom J Allen (Thomas James Allen) is a Sydney-based AI platform and product leader specialising in ontology, knowledge graphs and semantic data models. I turn domain complexity into coherent, buildable models — then help teams build on them.
 
 Ontology & Standards Manager at [Decidr](https://decidr.ai) in Sydney, where I own the platform model: how the ontology actually operates inside an AI platform, and the standards that keep everything built on it consistent. Before that I led discovery and build of Decidr's first four products, working with global development teams. They laid the foundations for the platform's end state, and its partnership products were delivered on top of them.
 
