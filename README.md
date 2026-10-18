@@ -27,4 +27,4 @@ Earlier: **Head of Digital at KOKO**, London — digital strategy and product ow
 
 ### Elsewhere
 
-[LinkedIn](https://linkedin.com/in/tom-j-allen) · [thomasjamesallen91@gmail.com](mailto:thomasjamesallen91@gmail.com)
+[LinkedIn](https://linkedin.com/in/tom-j-allen) · [hello@tomjallen.me](mailto:hello@tomjallen.me)
