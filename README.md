@@ -17,7 +17,7 @@ Earlier: **Head of Digital at KOKO**, London — digital strategy and product ow
 
 ### What I'm building
 
-- 🌊 [**Surf Signals**](https://github.com/TomJAllen/Surf-Signals) — a web app for learning surf lifesaving signals
+- 🌊 [**Patrol Ready**](https://www.patrolready.au) — a free app for surf lifesavers to learn and test signals, acronyms and radio ([code](https://github.com/TomJAllen/patrol-ready))
 - 🖥️ **Home lab** — Proxmox, Docker and local AI models on my own hardware
 - 🎮 **Games** — small Unity projects, and hunting for hidden gems in the lowest-rated corners of Steam
 
